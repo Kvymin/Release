@@ -1,5 +1,5 @@
 {
-  "code": 286,
-  "name": "2.8.6",
-  "desc": "* [APP]\n* DLNA supports send start time"
+  "code": 287,
+  "name": "2.8.7",
+  "desc": "* [EXO]\n* Fix bug"
 }
