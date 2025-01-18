@@ -1,5 +1,5 @@
 {
-  "code": 287,
-  "name": "2.8.7",
-  "desc": "* [EXO]\n* Fix bug"
+  "code": 288,
+  "name": "2.8.8",
+  "desc": "* [EXO]\n* Fix bug\n* [APP]\n* Added cast waiting message"
 }
