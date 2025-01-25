@@ -1,5 +1,5 @@
 {
-  "code": 292,
-  "name": "2.9.2",
-  "desc": "* [EXO]\n* Optimize"
+  "code": 293,
+  "name": "2.9.3",
+  "desc": "* [EXO]\n* Optimize\n* Fix H265 stuck"
 }
