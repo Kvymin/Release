@@ -1,5 +1,5 @@
 {
-  "code": 295,
-  "name": "2.9.5",
-  "desc": "* [EXO]\n* Optimize"
+  "code": 296,
+  "name": "2.9.6",
+  "desc": "* [APP]\n* Remove speed limit in tunnel mode\n* [VOD]\n* Fix opening time setting"
 }
