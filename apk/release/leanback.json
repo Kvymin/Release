@@ -1,5 +1,5 @@
 {
-  "code": 299,
-  "name": "2.9.9",
-  "desc": "* [EXO]\n* Optimize decode"
+  "code": 300,
+  "name": "3.0.0",
+  "desc": "* [App]\n* Fix 302 with user info\n* Add audio software decode setting"
 }
