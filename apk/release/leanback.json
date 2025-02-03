@@ -1,5 +1,5 @@
 {
-  "code": 302,
-  "name": "3.0.2",
-  "desc": "* [Media3]\n* Update av1\n* [Vod]\n* Remove drpy\n* Remove Youtube\n* [Live]\n* Remove p4p~p9p\n* Add m3u chno parse\n* [App]\n* Add conscrypt\n* Update quickjs\n* Remove ecb decode\n* Remove img+ detect\n* Short url support relative paths"
+  "code": 303,
+  "name": "3.0.3",
+  "desc": "* [App]\n* Remove conscrypt"
 }
