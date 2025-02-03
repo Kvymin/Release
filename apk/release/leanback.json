@@ -1,5 +1,5 @@
 {
-  "code": 303,
-  "name": "3.0.3",
-  "desc": "* [App]\n* Remove conscrypt"
+  "code": 304,
+  "name": "3.0.4",
+  "desc": "* [App]\n* Revert gson\n* Revert js lib"
 }
