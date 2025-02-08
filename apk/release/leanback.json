@@ -1,5 +1,5 @@
 {
-  "code": 305,
-  "name": "3.0.5",
-  "desc": "* [Media3]\n* Optimize H264 and H265\n* Support two aac audio tracks\n* [VOD]\n* yt is back\n* [Live]\n* Support parse drm_legacy"
+  "code": 306,
+  "name": "3.0.6",
+  "desc": "* [App]\n* Fixed some bug"
 }
