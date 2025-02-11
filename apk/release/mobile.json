@@ -1,5 +1,5 @@
 {
-  "code": 306,
-  "name": "3.0.6",
-  "desc": "* [App]\n* Fixed some bug"
+  "code": 307,
+  "name": "3.0.7",
+  "desc": "* [App]\n* Support hosts\n* Adjust proxy config\n* Optimize player error msg"
 }
