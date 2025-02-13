@@ -1,5 +1,5 @@
 {
-  "code": 308,
-  "name": "3.0.8",
-  "desc": "* [App]\n* Hosts support ipv4/ipv6"
+  "code": 309,
+  "name": "3.0.9",
+  "desc": "* [App]\n* Optimize hosts\n* Config add headers"
 }
