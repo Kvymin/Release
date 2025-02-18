@@ -1,12 +1,9 @@
-# 電視版 3.1.2
+# 電視版 3.1.3
 
 * [App]
-* Fix file path
-* Revert http/3
-* Support google tv background play
+* Fix drm decode
 
-# 手機版 3.1.2
+# 手機版 3.1.3
 
 * [App]
-* Fix file path
-* Revert http/3
+* Fix drm decode
