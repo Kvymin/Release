@@ -1,9 +1,11 @@
-# 電視版 3.1.3
+# 電視版 3.1.4
 
-* [App]
-* Fix drm decode
+* [Live]
+* Fix itv catchup
+* Catchup support utc
 
-# 手機版 3.1.3
+# 手機版 3.1.4
 
-* [App]
-* Fix drm decode
+* [Live]
+* Fix itv catchup
+* Catchup support utc
