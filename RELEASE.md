@@ -1,10 +1,12 @@
-# 電視版 3.1.5
+# 電視版 3.1.6
 
 * [App]
 * Add danmaku
 * Add file chooser
+* Support multiple danmaku
 
-# 手機版 3.1.5
+# 手機版 3.1.6
 
 * [App]
 * Add danmaku
+* Support multiple danmaku
