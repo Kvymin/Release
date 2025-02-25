@@ -1,5 +1,5 @@
 {
   "code": 315,
-  "name": "0225",
-  "desc": "* [App]\n* Add danmaku\n* Add file chooser\n* Support multiple danmaku"
+  "name": "0225v2",
+  "desc": "* [App]\n* Add danmaku\n* Add file chooser\n* Support multiple danmaku\n* [Media3]\n* Fix flv no audio track"
 }
