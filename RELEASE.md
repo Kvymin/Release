@@ -1,4 +1,4 @@
-# 電視版 3.1.6
+# 電視版 3.1.7
 
 * [Vod]
 * Add danmaku
@@ -11,7 +11,7 @@
 * [Media3]
 * Fix flv no audio track
 
-# 手機版 3.1.6
+# 手機版 3.1.7
 
 * [Vod]
 * Add danmaku
