@@ -1,5 +1,5 @@
 {
   "code": 315,
-  "name": "0226v2",
+  "name": "0226v3",
   "desc": "* [Vod]\n* Add danmaku\n* Add file chooser\n* Support multiple danmaku\n* [Live]\n* Remove type check\n* Remove xtream code\n* Support single xml epg\n* [Media3]\n* Fix flv no audio track"
 }
