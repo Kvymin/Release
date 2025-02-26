@@ -7,6 +7,7 @@
 * [Live]
 * Remove type check
 * Remove xtream code
+* Support single xml epg
 * [Media3]
 * Fix flv no audio track
 
@@ -19,5 +20,6 @@
 * [Live]
 * Remove type check
 * Remove xtream code
+* Support single xml epg
 * [Media3]
 * Fix flv no audio track
