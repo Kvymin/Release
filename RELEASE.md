@@ -1,25 +1,14 @@
-# 電視版 3.1.7
+# 電視版 3.1.8
 
+* [App]
+* Optimize choose file
 * [Vod]
-* Add danmaku
-* Add file chooser
-* Support multiple danmaku
-* [Live]
-* Remove type check
-* Remove xtream code
-* Support single xml epg
-* [Media3]
-* Fix flv no audio track
+* Optimize danmaku load
 
-# 手機版 3.1.7
+# 手機版 3.1.8
 
+* [App]
+* Optimize choose file
 * [Vod]
-* Add danmaku
-* Adjust search keyboard
-* Support multiple danmaku
-* [Live]
-* Remove type check
-* Remove xtream code
-* Support single xml epg
-* [Media3]
-* Fix flv no audio track
+* Optimize scan device
+* Optimize danmaku load
