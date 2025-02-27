@@ -1,5 +1,5 @@
 {
-  "code": 317,
-  "name": "3.1.7",
-  "desc": "* [Vod]\n* Add danmaku\n* Adjust search keyboard\n* Support multiple danmaku\n* [Live]\n* Remove type check\n* Remove xtream code\n* Support single xml epg\n* [Media3]\n* Fix flv no audio track"
+  "code": 318,
+  "name": "3.1.8",
+  "desc": "* [App]\n* Optimize update\n* [Vod]\n* Optimize scan device\n* Optimize danmaku load"
 }
